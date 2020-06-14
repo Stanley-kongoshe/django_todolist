@@ -1,0 +1,11 @@
+.sub-btn {
+  text-align: right;
+  margin: 0 auto;
+  margin-top: 0px;
+  padding: 0;
+}
+
+.flex-box {
+  display: flex;
+  justify-content: space-between;
+}
